@@ -117,4 +117,3 @@ def handler(event, context) -> dict:
 
     # Exit the Lambda function: return the status code
     return {'status_code': 200}
-EOF
